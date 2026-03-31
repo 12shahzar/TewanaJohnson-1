@@ -15,6 +15,15 @@ const teamMembers = [
       "I've been in the game for 8 years now. I'm all about finding solutions, which is why I built this team. We're experts at what we do and can pretty much handle any project you throw at us!",
   },
   {
+    name: "Muhammad Hamza",
+    location: "Karachi, Pakistan",
+    image: "/assets/Pillar/m_hamza.jpg",
+    badge: "/assets/upwork-badge.svg",
+    href: "https://www.upwork.com/freelancers/~0108acef1b5f14bbee?mp_source=share",
+    description:
+      "Hamza has been working with me for almost 4 years and manages around 80% of my projects as the project manager. He is an experienced developer himself and a key member of my team.",
+  },
+  {
     name: "Laetitia Guermeur",
     location: "CANNES, FRANCE",
     image: "/assets/Pillar/laetitia.svg",
@@ -41,15 +50,7 @@ const teamMembers = [
     description:
       "Elena is an AI Automation and AI Developer, highly skilled in her field. She joined our team 3 months ago and has already shown remarkable progress and contributions.",
   },
-  {
-    name: "Muhammad Hamza",
-    location: "Karachi, Pakistan",
-    image: "/assets/Pillar/m_hamza.jpg",
-    badge: "/assets/upwork-badge.svg",
-    href: "https://www.upwork.com/freelancers/~0108acef1b5f14bbee?mp_source=share",
-    description:
-      "Hamza has been working with me for almost 4 years and manages around 80% of my projects as the project manager. He is an experienced developer himself and a key member of my team.",
-  },
+
 ];
 
 export default function Pillar() {

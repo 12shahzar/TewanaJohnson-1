@@ -91,7 +91,7 @@ export default function About() {
             <p className="leading-relaxed">
               {/* My name is{" "}
               <span className="font-bold text-[#19191C]">Tewana Johnson</span>. */}
-             I’m a Top Quality Fiverr Seller with 600+ successful projects, a 4.8★ rating, and a 100% response rate. Since 2018, I’ve been working in the IT sector with businesses of all sizes, delivering reliable and high-quality solutions. I’m available 24/7, supported by my close team to ensure smooth communication and timely delivery. I stay personally involved while managing projects professionally, so clients always feel supported. My work experience and client satisfaction speak for themselves. Let’s connect and see if I’m the right fit for your project.
+              I’m a <span className="text-[#19191C] font-bold">Top Quality Fiverr Seller with 600+</span> successful projects, a <span className="text-[#19191C] font-bold">4.8★ rating,</span> and a <span className="text-[#19191C] font-bold">100% response rate.</span> Since 2018, I’ve been working in the IT sector with businesses of all sizes, delivering reliable and high-quality solutions. <span className="text-[#19191C] font-bold">I’m available 24/7,</span> supported by my close team to ensure smooth communication and timely delivery. I stay personally involved while managing projects professionally, so clients always feel supported. My work experience and client satisfaction speak for themselves. Let’s connect and see if I’m the right fit for your project.
             </p>
             {/* <p className="leading-relaxed">
               If you’re looking for high-quality branding and a reliable
